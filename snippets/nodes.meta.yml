@@ -1659,6 +1659,24 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
+- name: ff_kikor
+  obfs: salamander
+  obfs-password: ywfihi3ohyg9iun3gvu
+  password: 3r6PBKy5DX
+  port: 18646
+  server: p1.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 'ff_kikor #1'
+  obfs: salamander
+  obfs-password: Djxsjduwue
+  password: 3r6PBKy5DX
+  port: 501
+  server: p1.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '@Selinc'
   password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
   port: 47262
@@ -1667,7 +1685,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@Filter_breaker'
+- name: '@Filter_breaker #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1701,7 +1719,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '@meli_proxyy'
+- name: ff_kikor-11726
   obfs: salamander
   obfs-password: qilebcibeMO3IVBnfqal3i
   password: k1sCJ4SJQj
@@ -1710,7 +1728,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@meli_proxyy #1'
+- name: ff_kikor-18646
   obfs: salamander
   obfs-password: ywfihi3ohyg9iun3gvu
   password: k1sCJ4SJQj
@@ -1719,7 +1737,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@meli_proxyy #2'
+- name: ff_kikor-20971
   obfs: salamander
   obfs-password: 31khbqfou1njilgv2qoih
   password: k1sCJ4SJQj
@@ -1728,7 +1746,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@meli_proxyy #3'
+- name: ff_kikor-54307
   obfs: salamander
   obfs-password: Djxsjduwue
   password: k1sCJ4SJQj
