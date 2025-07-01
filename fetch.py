@@ -132,8 +132,8 @@ session.headers["User-Agent"] = 'Mozilla/5.0 (X11; Linux x86_64) Clash-verge/v2.
 session.mount('file://', FileAdapter())
 
 d = datetime.datetime.now()
-if STOP or (d.month, d.day) in ((6, 4), (7, 1), (10, 1)):
-    DEBUG_NO_NODES = DEBUG_NO_DYNAMIC = STOP = True
+#if STOP or (d.month, d.day) in ((6, 4), (7, 1), (10, 1)):
+#    DEBUG_NO_NODES = DEBUG_NO_DYNAMIC = STOP = True
 
 class Node:
     names: Set[str] = set()
