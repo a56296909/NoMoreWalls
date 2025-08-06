@@ -1729,6 +1729,14 @@ proxies:
   sni: zp2.eyujichang.xyz
   tls: false
   type: hysteria2
+- name: 'Channel id: @ShadowProxy66 #4'
+  password: 3hszBhqVsUhqOOFWJlev6k6Tkc
+  port: 22509
+  server: 18.143.180.14
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: '2'
   password: 5d110f18-5a37-4db3-8cf6-f0bced38a1ae
   port: 443
@@ -1745,21 +1753,38 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #5'
+- name: 'Channel id: @ShadowProxy66 #6'
   obfs: salamander
-  obfs-password: KevinZakarian
-  password: 6hDSryb2af
-  port: 11001
-  server: 185.45.193.163
+  obfs-password: do6T6UBnoZ9FhY4a
+  password: 661c828f-2bd3-4b17-b93e-66441ed620d8
+  port: 2053
+  server: 107.172.50.179
   skip-cert-verify: true
+  sni: us01.kittycdn.pp.ua
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #6'
-  password: AZrgUfcGknbd6Q6LHkzMT0ODVk
-  port: 32089
-  server: 43.199.72.130
+- name: 'Channel id: @ShadowProxy66 #7'
+  password: 664S8kkvFHXmO1auxV6A9gKAHI
+  port: 8030
+  server: 18.143.168.252
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @ShadowProxy66 #8'
+  password: 7992f244-8c2c-4a1a-923f-2e116e90149b
+  port: 443
+  server: 198.23.130.211
+  skip-cert-verify: true
+  sni: file-oss-ccs-02.dafei.de
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @ShadowProxy66 #9'
+  password: 8418fb71-419d-4fc3-8b29-d7fee8de76c7
+  port: 443
+  server: 104.168.34.109
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '未命名 #4'
@@ -1774,15 +1799,6 @@ proxies:
   password: Wo9rLCYw6gzcfTgIu11mhBVciVs
   port: 29282
   server: 47.74.34.102
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #8'
-  obfs: salamander
-  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
-  password: a18b26c8-6634-4238-8ccb-34e777e1277b
-  port: 33079
-  server: 45.136.245.177
   skip-cert-verify: true
   tls: false
   type: hysteria2
@@ -1817,7 +1833,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #9'
+- name: 'Channel id: @ShadowProxy66 #11'
   obfs: salamander
   obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
   password: ba3c2ddf-237d-4f41-a6b5-9706ec5de0fd
@@ -1826,7 +1842,15 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #10'
+- name: 'Channel id: @ShadowProxy66 #12'
+  password: bd109dec-b7b5-4f0b-a77d-1181c148712c
+  port: 53272
+  server: 47.79.32.141
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @ShadowProxy66 #13'
   password: cc83a02b-90ea-403b-9c76-27e4be95f637
   port: 50256
   server: 154.204.181.230
@@ -1852,7 +1876,7 @@ proxies:
   sni: aparat.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #13'
+- name: 'Channel id: @ShadowProxy66 #16'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
@@ -1864,6 +1888,14 @@ proxies:
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @ShadowProxy66 #18'
+  password: dongtaiwang.com
+  port: 5355
+  server: 51.159.111.32
   skip-cert-verify: true
   sni: www.bing.com
   tls: false
@@ -1897,7 +1929,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #16'
+- name: 'Channel id: @ShadowProxy66 #20'
   password: nfsn666
   port: 8888
   server: 45.207.222.138
@@ -1913,7 +1945,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #17'
+- name: 'Channel id: @ShadowProxy66 #21'
   password: wl4HYN9PPKs8d8IzGIt4yKqt0
   port: 53348
   server: 47.74.34.102
@@ -1991,7 +2023,7 @@ proxies:
   sni: flydg.flylink.cyou
   tls: false
   type: hysteria2
-- name: '@meli_proxyy #1'
+- name: '@Daily_Configs #1'
   obfs: salamander
   obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
   password: 30cd031e-b4a6-4bc7-a99a-9642259fdeff
@@ -2384,7 +2416,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'telegram  @v2rayNG_Matsuri #1'
+- name: 'telegram  @v2rayNG_Matsuri #3'
   password: nG8WL2HVYqARhg2XqxKPsARekSU
   port: 7431
   server: 18.141.229.199
