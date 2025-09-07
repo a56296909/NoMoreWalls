@@ -356,7 +356,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 'All-@IRAN_V2RAY1 #3'
+- name: '  : injastvpn@'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -402,6 +402,16 @@ proxies:
   server: 176.124.204.248
   skip-cert-verify: true
   sni: slack.com
+  tls: false
+  type: hysteria2
+- name: '@Daily_Configs-IPv4'
+  obfs: salamander
+  obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
+  password: dailyconfigs
+  port: 443
+  server: 176.124.204.248
+  skip-cert-verify: true
+  sni: ubuntu com
   tls: false
   type: hysteria2
 - name: '@Daily_Configs #8'
