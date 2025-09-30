@@ -229,26 +229,6 @@ proxies:
   sni: microsoft.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs <==  '
-  obfs: salamander
-  obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
-  password: daily_configs
-  port: 443
-  server: 95.181.174.31
-  skip-cert-verify: true
-  sni: slack.com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs <==   #2'
-  obfs: salamander
-  obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
-  password: daily_configs
-  port: 443
-  server: 95.181.174.31
-  skip-cert-verify: true
-  sni: slack.com
-  tls: false
-  type: hysteria2
 - name: '@Daily_Configs #4'
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
@@ -369,7 +349,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@Daily_Configs <==   #4'
+- name: '@Daily_Configs <==  '
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
   password: mahsaamini

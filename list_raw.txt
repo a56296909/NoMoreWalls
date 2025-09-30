@@ -24,8 +24,6 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=
 hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret#MCI---4
 hysteria2://biadailyconfigs@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40V2rayNGVPN%20%3C%3D%20%20
 hysteria2://bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40Daily_Configs%20%233
-hysteria2://daily_configs@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=sk8JqhGcrazoMtCeqlBX76nwlPaypmnP#%40Daily_Configs%20%3C%3D%3D%20%20
-hysteria2://daily_configs@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs#%40Daily_Configs%20%3C%3D%3D%20%20%20%232
 hysteria2://dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=sk8JqhGcrazoMtCeqlBX76nwlPaypmnP#%40Daily_Configs%20%234
 hysteria2://dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40Daily_Configs%20%236
 hysteria2://dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40Daily_Configs%20%237
@@ -39,7 +37,7 @@ hysteria2://joindailyconfigs@95.181.174.31:443?insecure=1&sni=slack.com&obfs=sal
 hysteria2://joindailyconfigschanel@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40Daily_Configs%20%2312
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:28777?insecure=1&obfs=salamander&obfs-password=wcancmaocnewrivbkacmlmsvwuvdfsv#%40FreakConfig%20%236
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:53713?insecure=1&obfs=salamander&obfs-password=uvahwuicbhwabhvlhv#%40FreakConfig%20%237
-hysteria2://mahsaamini@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=sk8JqhGcrazoMtCeqlBX76nwlPaypmnP#%40Daily_Configs%20%3C%3D%3D%20%20%20%234
+hysteria2://mahsaamini@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=sk8JqhGcrazoMtCeqlBX76nwlPaypmnP#%40Daily_Configs%20%3C%3D%3D%20%20
 hysteria2://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:2083?insecure=1&sni=ghasem.kotlet.org&obfs=salamander&obfs-password=ki(rtoko(s-maret-khamneii#%40V2rayNGVPN%20%3C%3D%20%20%20%231
 hysteria2://telegramchannel_daily_configs@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=sk8JqhGcrazoMtCeqlBX76nwlPaypmnP#Telegram%3A%40Daily_Configs
 hysteria2://zanzendegiazadi@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=sk8JqhGcrazoMtCeqlBX76nwlPaypmnP#%40Daily_Configs%20%2314
@@ -74,6 +72,6 @@ vless://ea8a4fac-8b8a-4fa5-a7b4-63575499fffb@sunstar.astracat.ru:433?allowInsecu
 trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?allowInsecure=1&sni=aliyun.com#CN_speednode_0016
 vless://9a54bad8-538d-4744-b7bc-640629840490@216.133.149.235:30227?allowInsecure=0&sni=aws.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0020
 vless://eef519d2-4a74-465d-9576-c1bbc23c89a3@signetprxyynode01.su:443?allowInsecure=0&sni=yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0021
-ss://YWVzLTEyOC1nY206NzIyYTU0NDE0YWU2ZWU3MDZhYzk@jp07.jd.kunlunpx.com:45572?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fzksuapgx%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 https://gist.githubusercontent.com/peasoft/40b87245630092f30cc98af61190b4e2/raw/
+ss://YWVzLTEyOC1nY206NzIyYTU0NDE0YWU2ZWU3MDZhYzk@jp07.jd.kunlunpx.com:45572?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D215996dd9f1c3db1e54b.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
