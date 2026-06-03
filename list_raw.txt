@@ -13,7 +13,7 @@ hysteria2://Masir_Sefid@18.157.205.223:54040?insecure=0&sni=qus.masir-sefid.shop
 hysteria2://Masir_Sefid@18.157.205.223:59826?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%2312
 hysteria2://Masir_Sefid@18.157.205.223:8443?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%2313
 hysteria2://Masir_Sefid@18.157.205.223:8880?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%2314
-hysteria2://Masir_Sefid@18.159.66.5:443?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40vmessorg
+hysteria2://Masir_Sefid@18.159.66.5:443?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40mehrosaboran
 hysteria2://Masir_Sefid@18.185.89.204:1040?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%2315
 hysteria2://Masir_Sefid@18.185.89.204:2083?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%20%40Fear_Config%20%231
 hysteria2://Masir_Sefid@18.185.89.204:4040?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%20%40Fear_Config%20%232

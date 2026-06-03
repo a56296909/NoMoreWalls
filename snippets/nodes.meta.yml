@@ -149,7 +149,7 @@ proxies:
   sni: qus.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@vmessorg'
+- name: '@mehrosaboran'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
