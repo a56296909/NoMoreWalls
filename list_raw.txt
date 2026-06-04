@@ -1,17 +1,13 @@
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2
 hysteria2://Masir_Sefid@18.159.66.5:443?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40mehrosaboran
-hysteria2://Masir_Sefid@18.185.89.204:1040?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026
 hysteria2://Masir_Sefid@18.185.89.204:2083?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%20%40Fear_Config%20%231
 hysteria2://Masir_Sefid@18.185.89.204:4040?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%20%40Fear_Config%20%232
 hysteria2://Masir_Sefid@18.185.89.204:44044?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%20%40Fear_Config%20%233
 hysteria2://Masir_Sefid@18.185.89.204:443?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%20%40Fear_Config%20%234
 hysteria2://Masir_Sefid@18.185.89.204:444?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%20%40Fear_Config%20%235
-hysteria2://Masir_Sefid@18.185.89.204:48637?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%234
 hysteria2://Masir_Sefid@18.185.89.204:48?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%20%40Fear_Config%20%236
-hysteria2://Masir_Sefid@18.185.89.204:52848?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%235
 hysteria2://Masir_Sefid@18.185.89.204:54040?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%20%40Fear_Config%20%237
 hysteria2://Masir_Sefid@18.185.89.204:59826?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%20%40Fear_Config%20%238
-hysteria2://Masir_Sefid@18.185.89.204:8880?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%238
 hysteria2://Masir_Sefid@18.193.90.31:1040?insecure=0&sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%20
 hysteria2://Masir_Sefid@18.193.90.31:4040?insecure=0&sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%20%20%231
 hysteria2://Masir_Sefid@18.193.90.31:443?insecure=0&sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2026%20%20%20%232
@@ -31,6 +27,7 @@ hysteria2://Masir_Sefid@34.196.169.182:48990?insecure=0&sni=masir-sefid.shop&obf
 hysteria2://Masir_Sefid@34.196.169.182:54040?insecure=0&sni=masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2025%286%29
 hysteria2://Masir_Sefid@34.196.169.182:59826?insecure=0&sni=masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40V2ray_official%20%235
 hysteria2://Masir_Sefid@34.196.169.182:8880?insecure=0&sni=masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40internet_azad_2025%283%29
+hysteria2://Masir_Sefid@65.109.216.181:443?insecure=0&sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%40filembad
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%20-%20NL%20-%20%40FreeOnlineVPN
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2%20%232
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian
