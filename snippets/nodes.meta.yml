@@ -123,10 +123,11 @@ proxies:
   tls: false
   type: hysteria2
 - name: '未命名 #12'
-  password: 95e8532b-cc69-42d4-9553-e3c23292b15b
-  port: 8443
-  server: 176.124.222.180
-  sni: j47lq.pleiades.codes
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 8080
+  server: 162.249.124.105
+  skip-cert-verify: true
+  sni: mercedes-grape.yyuyy.com
   tls: false
   type: hysteria2
 - name: '@Configvibes #2'
@@ -243,13 +244,21 @@ proxies:
   tls: false
   type: hysteria2
 - name: '未命名 #24'
+  password: belgium_hysteria2_fastlane_a118d9y0r
+  port: 443
+  server: 113.30.152.25
+  skip-cert-verify: true
+  sni: be1.h.fastlanehosting.ru
+  tls: false
+  type: hysteria2
+- name: '未命名 #25'
   password: c175d956-d1f4-4c53-b2b1-8493bf8529c6
   port: 443
   server: 87.120.84.189
   sni: de1.apexvpn.space
   tls: false
   type: hysteria2
-- name: '未命名 #25'
+- name: '未命名 #26'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -259,7 +268,7 @@ proxies:
   sni: nl2.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '未命名 #26'
+- name: '未命名 #27'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -268,14 +277,14 @@ proxies:
   sni: node1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '未命名 #27'
+- name: '未命名 #28'
   password: d1224950-ffab-4b9a-8696-431b40a6cfbd
   port: 443
   server: bel-03.node.lumixnet.com
   sni: bel-03.node.lumixnet.com
   tls: false
   type: hysteria2
-- name: '未命名 #28'
+- name: '未命名 #29'
   password: df489ab2-2242-4952-a774-1074a3a31f41
   port: 8443
   server: eh-spl1.craft-supply.org
@@ -298,7 +307,7 @@ proxies:
   sni: keyhop-offshore.roxa.org
   tls: false
   type: hysteria2
-- name: '未命名 #29'
+- name: '未命名 #30'
   password: fe475179-d8a8-420d-a4ac-3e415ed8dc72
   port: 11683
   server: uswx4.wxgqlfx.vip
@@ -306,14 +315,14 @@ proxies:
   sni: 144.225.187.153
   tls: false
   type: hysteria2
-- name: '未命名 #30'
+- name: '未命名 #31'
   password: hysteria2_fastlane_9r63hua9f
   port: 443
   server: 144.31.135.204
   sni: nl2.h.fastlanehosting.ru
   tls: false
   type: hysteria2
-- name: '未命名 #31'
+- name: '未命名 #32'
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: de.1.23.h2corp.org
@@ -321,7 +330,7 @@ proxies:
   sni: germany3.h2corp.local
   tls: false
   type: hysteria2
-- name: '未命名 #32'
+- name: '未命名 #33'
   password: netherlands_3_hysteria2_fastlane_xr3nai71s
   port: 443
   server: 91.84.119.49
@@ -336,21 +345,21 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: '未命名 #33'
+- name: '未命名 #34'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.219
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: '未命名 #34'
+- name: '未命名 #35'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.221
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: '未命名 #35'
+- name: '未命名 #36'
   password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
   port: 443
   server: cabinet.wwwinternetvideo.click
@@ -465,7 +474,7 @@ proxies:
   sni: us65.mechvpn.online
   tls: false
   type: hysteria2
-- name: '@FreakConfig'
+- name: 147208 | Telegram = t.me/SOSke...
   obfs: salamander
   obfs-password: uw9b2qq5rx
   password: 6aab8efdf13945829ae3699c342be406
@@ -578,7 +587,7 @@ proxies:
   sni: fast.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: V2RayyNGvpn
+- name: 'Channel : @Daily_Configs'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: IJMFOXhvbQ
@@ -759,22 +768,6 @@ proxies:
   sni: 198-46-188-116.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: NL-@VPNine1
-  password: gf1
-  port: 443
-  server: 5.129.235.85
-  skip-cert-verify: true
-  sni: www.linux.com
-  tls: false
-  type: hysteria2
-- name: US-@VPNine1
-  password: gf1
-  port: 443
-  server: 66.94.121.46
-  skip-cert-verify: true
-  sni: www.broadcom.com
-  tls: false
-  type: hysteria2
 - name: '|FI|@wxgqlfx|169'
   password: k-qZIMk71_90gFFSfFiP688PqB6yLxie
   port: 43327
@@ -788,36 +781,6 @@ proxies:
   obfs-password: gu74jg3ym0e21zco
   password: m3bqxk03mg221yi2
   port: 52000
-  server: 95.217.96.131
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@vmesskhodam #2'
-  obfs: salamander
-  obfs-password: fsc92dsh321o5h3r
-  password: m3bqxk03mg221yi2
-  port: 52016
-  server: 95.217.96.131
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@vmesskhodam #3'
-  obfs: salamander
-  obfs-password: 1wcfqg6gwoyxlplo
-  password: m3bqxk03mg221yi2
-  port: 52022
-  server: 95.217.96.131
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@vmesskhodam #4'
-  obfs: salamander
-  obfs-password: phos93w1zi0nj6uv
-  password: m3bqxk03mg221yi2
-  port: 52049
   server: 95.217.96.131
   skip-cert-verify: false
   sni: assets.gateway-stream.com
