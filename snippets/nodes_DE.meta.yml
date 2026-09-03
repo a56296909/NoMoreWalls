@@ -9,6 +9,13 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: DE
+  password: dffb4c3d-1e84-4938-8881-cad917e8efb2
+  port: 443
+  server: de1.apexvpn.space
+  sni: de1.apexvpn.space
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome
